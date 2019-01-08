@@ -16,7 +16,7 @@ public class HomeController {
     @RequestMapping("/")
     @ResponseBody
     public String akce1() {
-        System.out.println("xxxxxxxxxxxxxxxxx");
+        System.out.println("xxxxxxxxxxxxxxxxxyyy");
         return "Ahoj!!!";
     }
 
